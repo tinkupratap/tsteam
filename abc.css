@@ -426,7 +426,7 @@ height:590px;
 width:740px;
 border:1px solid;
 background: #da25da;
-display:inline-block;
+display: block;
 position: absolute;
 }
 
