@@ -423,10 +423,10 @@ to{color:yellow;}
 .right-pannel{
 float:right;
 height:590px;
-width:740px;
+width:750px;
 border:1px solid;
 background: #da25da;
-display: block;
+display: inline-block;
 position: absolute;
 }
 
